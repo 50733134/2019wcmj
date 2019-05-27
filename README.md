@@ -1,3 +1,4 @@
-# 2019wcmj
+# cmsimfly
+CMSimfly is a simple CMS in Flask
 
-https://50733134.github.io/2019wcmj/content/index.html
+https://chiamingyen.github.io/cmsimfly
